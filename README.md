@@ -6,10 +6,7 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div><br>
 
-<div>
-  <a href="https://github.com/jeantsushima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeantsushima&show_icons=true&theme=dracula&count_private=true" /></a>
-</div>
+
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Jean-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
