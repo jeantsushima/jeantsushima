@@ -22,5 +22,4 @@
 
 ##
 
- ![Snake animation](https://github.com/jeantsushima/jeantsushima/blob/output/github-contribution-grid-snake.svg)
  
